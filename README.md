@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on **New-Web-Projects**
 
 - 🌱 I’m currently learning **TypeScript**
-- 
-- - 👯 I’m looking to collaborate on **Ai**
+  
+- 👯 I’m looking to collaborate on **Ai**
 
 - 💬 Ask me about **Web Dev**
 
