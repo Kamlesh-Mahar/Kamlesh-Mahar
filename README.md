@@ -1,6 +1,6 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Kamlesh Mahar</h1>
-<h3 align="center">A passionate Full Stack developer.</h3>
+<h3 align="center">A dedicated Full Stack developer and AI enthusiast..</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=790b761181554e714fc6bb5595e4968f86206185470ed461&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamlesh-mahar&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh-mahar" /> </p>
