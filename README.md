@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
   
-- 👯 I’m looking to collaborate on **Ai**
+- 👯 I’m looking to collaborate on **Any Project**
 
 - 💬 Ask me about **Web Dev**
 
